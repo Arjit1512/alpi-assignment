@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/alpi-assignment/static/css/main.8e2f2c7b.css",
+    "main.js": "/alpi-assignment/static/js/main.1cc6deab.js",
+    "static/media/img222.png": "/alpi-assignment/static/media/img222.ec9427e33031f5ffef75.png",
+    "static/media/truck.png": "/alpi-assignment/static/media/truck.d6493415583cd1a063cf.png",
+    "static/media/img1.jpg": "/alpi-assignment/static/media/img1.b4eed16b7a24d1d442e6.jpg",
+    "static/media/swift.jpeg": "/alpi-assignment/static/media/swift.fbbd0e2ea2b606e8c79a.jpeg",
+    "static/media/img4.jpg": "/alpi-assignment/static/media/img4.e9a991f4562c3c326eaf.jpg",
+    "static/media/per1.png": "/alpi-assignment/static/media/per1.200794b8931e116e5411.png",
+    "static/media/cart3.jpeg": "/alpi-assignment/static/media/cart3.23ff78f50d46287c7602.jpeg",
+    "static/media/cart2.jpg": "/alpi-assignment/static/media/cart2.4fc6798d1d4d5902d892.jpg",
+    "static/media/img3.jpg": "/alpi-assignment/static/media/img3.1310457413a18a990933.jpg",
+    "static/media/cart1.jpg": "/alpi-assignment/static/media/cart1.8d1db95fab564323726d.jpg",
+    "static/media/i2.png": "/alpi-assignment/static/media/i2.7a935481a0ad36f6d544.png",
+    "static/media/cyber.png": "/alpi-assignment/static/media/cyber.d0c88b17e6c95a7ab938.png",
+    "index.html": "/alpi-assignment/index.html",
+    "main.8e2f2c7b.css.map": "/alpi-assignment/static/css/main.8e2f2c7b.css.map",
+    "main.1cc6deab.js.map": "/alpi-assignment/static/js/main.1cc6deab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e2f2c7b.css",
+    "static/js/main.1cc6deab.js"
+  ]
+}
