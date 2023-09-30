@@ -16,7 +16,13 @@ const firstPage = () => {
         <div className='hidden1 hnavbar'>
           <FontAwesomeIcon className='icon1' icon={faPhone}></FontAwesomeIcon>
           
-          <FontAwesomeIcon  className='icon2' icon={faBars}></FontAwesomeIcon>
+          
+          <a href=''>
+          <Link to="/swift"><FontAwesomeIcon className='icon2' icon={faBars}></FontAwesomeIcon>
+          </Link>
+          </a>
+          
+          
         </div>
 
 

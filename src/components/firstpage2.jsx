@@ -12,8 +12,12 @@ const firstpage2 = () => {
       <div className='hidden2 navbar2'>
           <FontAwesomeIcon className='icon1' icon={faPhone}></FontAwesomeIcon>
           
-          <FontAwesomeIcon  className='icon2' icon={faBars}></FontAwesomeIcon>
-        </div>
+          <a href=''>
+          <Link to="/alpi-assignment"><FontAwesomeIcon className='icon2' icon={faBars}></FontAwesomeIcon>
+          </Link>
+          </a>
+          
+          </div>
 
       <div className='navbar'>
       

@@ -4,8 +4,13 @@ import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faFacebook, faInstagram, faTwitter, faLinkedin } from '@fortawesome/free-brands-svg-icons';
+import { faChevronDown, faChevronUp } from '@fortawesome/free-solid-svg-icons'
+
 const ninthPage2 = () => {
   return (
+    <div>
     <div className='page-29'>
         <Container>
             <Row>
@@ -53,6 +58,33 @@ const ninthPage2 = () => {
                 </Col>
             </Row>
         </Container>
+        </div>
+
+
+        <div className='page-299'>
+            <h3 className='item'>INFORMATION<FontAwesomeIcon className='font' icon={faChevronDown}></FontAwesomeIcon></h3>
+            <h3 className='item'>TAXI & COURIER TRUCKS<FontAwesomeIcon className='font' icon={faChevronUp}></FontAwesomeIcon></h3>
+            <h6>Versatile Fleet</h6>
+            <h6>Safety & Training</h6>
+            <h3 className='item'>CONTAINER TRANSPORT<FontAwesomeIcon className='font' icon={faChevronDown}></FontAwesomeIcon></h3>
+
+            <div className='border-white border-white2'>
+            </div>
+
+            <h3 className='centre1 sm'>SOCIAL MEDIA</h3>
+            <div className='centre'>
+               <FontAwesomeIcon className='space' icon={faFacebook}></FontAwesomeIcon>
+               <FontAwesomeIcon icon={faTwitter} className='space' ></FontAwesomeIcon>
+               <FontAwesomeIcon icon={faInstagram} className='space' ></FontAwesomeIcon>
+               <FontAwesomeIcon icon={faLinkedin} className='space' ></FontAwesomeIcon>
+            </div>
+            <div className='border-white border-white1'>
+            </div>
+
+            <h4>©2014 Swift Transport.All rights reserved.</h4>
+         </div>
+
+
     </div>
   )
 }

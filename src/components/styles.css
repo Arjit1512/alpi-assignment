@@ -199,4 +199,10 @@ a{
         top:2%;
         color: white;
     }
+    .click{
+        position:absolute; 
+        top:10%; 
+        background-color:black;
+        visibility: visible;
+    }
 }
