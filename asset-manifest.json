@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/alpi-assignment/static/css/main.8e2f2c7b.css",
-    "main.js": "/alpi-assignment/static/js/main.1cc6deab.js",
+    "main.css": "/alpi-assignment/static/css/main.874fe3ba.css",
+    "main.js": "/alpi-assignment/static/js/main.5b939385.js",
     "static/media/img222.png": "/alpi-assignment/static/media/img222.ec9427e33031f5ffef75.png",
     "static/media/truck.png": "/alpi-assignment/static/media/truck.d6493415583cd1a063cf.png",
     "static/media/img1.jpg": "/alpi-assignment/static/media/img1.b4eed16b7a24d1d442e6.jpg",
@@ -15,11 +15,11 @@
     "static/media/i2.png": "/alpi-assignment/static/media/i2.7a935481a0ad36f6d544.png",
     "static/media/cyber.png": "/alpi-assignment/static/media/cyber.d0c88b17e6c95a7ab938.png",
     "index.html": "/alpi-assignment/index.html",
-    "main.8e2f2c7b.css.map": "/alpi-assignment/static/css/main.8e2f2c7b.css.map",
-    "main.1cc6deab.js.map": "/alpi-assignment/static/js/main.1cc6deab.js.map"
+    "main.874fe3ba.css.map": "/alpi-assignment/static/css/main.874fe3ba.css.map",
+    "main.5b939385.js.map": "/alpi-assignment/static/js/main.5b939385.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e2f2c7b.css",
-    "static/js/main.1cc6deab.js"
+    "static/css/main.874fe3ba.css",
+    "static/js/main.5b939385.js"
   ]
 }
